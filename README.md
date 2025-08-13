@@ -1,11 +1,11 @@
 Command to run:
 
-mkdir buid
+> mkdir buid
 
-cd build
+> cd build
 
-cmake ..
+> cmake ..
 
-make
+> make
 
-./myproject
+> ./myproject
